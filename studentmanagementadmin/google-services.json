@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515777522180",
+    "project_id": "student-management-clien-7a84e",
+    "storage_bucket": "student-management-clien-7a84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515777522180:android:5b6f1732a1fbbe0a9b2351",
+        "android_client_info": {
+          "package_name": "org.freedu.studentmanagementadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinIPClkDJMtJ-HifVOYPhPUmShwQgOV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515777522180:android:8af886af9c515aed9b2351",
+        "android_client_info": {
+          "package_name": "org.freedu.studentmanagementclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinIPClkDJMtJ-HifVOYPhPUmShwQgOV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
