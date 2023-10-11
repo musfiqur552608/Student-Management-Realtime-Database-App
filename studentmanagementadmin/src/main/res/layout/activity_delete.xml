@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="36dp"
         android:fontFamily="@font/akaya_telivigala"
-        android:text="Add Student"
+        android:text="Delete Student"
         android:textColor="@color/white"
         android:textSize="32sp"
         android:textStyle="bold"
