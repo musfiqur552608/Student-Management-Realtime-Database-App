@@ -17,7 +17,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this@MainActivity, AddActivity::class.java))
             finish()
         }
-        binding.updateBtn.setOnClickListener {  }
-        binding.deleteBtn.setOnClickListener {  }
+        binding.updateBtn.setOnClickListener {
+            startActivity(Intent(this@MainActivity, UpdateActivity::class.java))
+            finish()
+        }
+        binding.deleteBtn.setOnClickListener {
+            startActivity(Intent(this@MainActivity, DeleteActivity::class.java))
+            finish()
+        }
     }
 }
